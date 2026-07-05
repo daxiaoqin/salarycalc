@@ -16,3 +16,7 @@ A collection of free, fast, and accurate salary calculation tools running at [ht
 Most salary calculators online are outdated or cluttered with ads. SalaryCalc.me provides clean, ad-light, accurate calculations with educational content to help you understand your paycheck better.
 
 Visit: [https://salarycalc.me](https://salarycalc.me)
+
+---
+
+**Also check out [GPUBench.online](https://gpubench.online)** — a free GPU hashrate database and mining calculator for cryptocurrency miners. Real benchmarks for RTX 50/40/30 series and AMD cards across all major algorithms.
